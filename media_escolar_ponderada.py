@@ -21,7 +21,7 @@ try:
        print('REPROVADO')
 
 except ValueError:
-    print('Somente valores númericos')
+    print("Somente valores númericos")
 
 #sair do programa
 input ('Aperte enter para sair')
