@@ -22,4 +22,4 @@ except ValueError:
     print('Somente valores numéricos')
 
 #sair do programa
-input ('Aperte enter para sair')
+input ("Aperte enter para sair")
